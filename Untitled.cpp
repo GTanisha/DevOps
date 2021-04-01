@@ -29,4 +29,4 @@ int main(void) {
     printf("Not found");
   else
     printf("Element is found at index %d", result);
-}
+}printf(File is modifiedcat Untitled.cpp)
